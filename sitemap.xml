@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://&lt;你的用户名&gt;.github.io/&lt;仓库名&gt;/</loc>
+         <loc>https://evener920.github.io/wikis/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://&lt;你的用户名&gt;.github.io/&lt;仓库名&gt;/tags/</loc>
+         <loc>https://evener920.github.io/wikis/tags/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://&lt;你的用户名&gt;.github.io/&lt;仓库名&gt;/project-docs/journal-founding/</loc>
+         <loc>https://evener920.github.io/wikis/project-docs/journal-founding/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://&lt;你的用户名&gt;.github.io/&lt;仓库名&gt;/reading-notes/tang-history/</loc>
+         <loc>https://evener920.github.io/wikis/reading-notes/tang-history/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://&lt;你的用户名&gt;.github.io/&lt;仓库名&gt;/research-notes/rag-publishing/</loc>
+         <loc>https://evener920.github.io/wikis/research-notes/rag-publishing/</loc>
+         <lastmod>2026-09-06</lastmod>
+    </url>
+    <url>
+         <loc>https://evener920.github.io/wikis/%E8%AF%97%E8%AF%8D/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
 </urlset>
